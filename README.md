@@ -1,4 +1,4 @@
-# Automa-o-de-Sistemas-e-Processos-com-Python
+# Automação de Sistemas e Processos
 
 Fiz um pequeno projeto de automação no python usando a biblioteca pyautogui, usei o pandas para fazer pequenas verificações no banco de dados da planilha e coloquei o seguinte problema:
 Todos os dias, o nosso sistema atualiza as vendas do dia anterior.
